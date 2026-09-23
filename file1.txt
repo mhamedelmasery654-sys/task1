@@ -1,2 +1,0 @@
-Hello from the first file!
-This is asynchronous reading in action.
